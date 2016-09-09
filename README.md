@@ -5,3 +5,5 @@
 - Ding
 - Dong
 - Ting
+- Gong
+- Hong
